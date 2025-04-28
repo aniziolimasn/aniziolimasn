@@ -30,3 +30,18 @@ Sou um **Cientista de Dados em formação**, com experiência prática em desenv
 
 Tenho grande interesse em transformar dados em **informações estratégicas** que apoiem decisões.  
 Busco aprender continuamente novas tecnologias e boas práticas de desenvolvimento, sempre com foco em aplicações práticas no mundo real.
+
+ <br>
+
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/GentilRibeiro">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aniziolimasn&show_icons=true&theme=dark&include_commits=true&cache_seconds=900"/>
+</a>
+
+<a href="https://github.com/GentilRibeiro">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniziolimasn&layout=compact&langs_count=8&theme=dark&cache_seconds=900"/>
+</a>
+
+
+<br></br>
